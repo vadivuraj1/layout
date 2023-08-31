@@ -1,0 +1,1058 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    
+    width: 100%;
+    height: 400px;
+    
+    
+}
+.container{
+    width: 100%;
+    height: 380px;
+    margin-top: 10px;
+    position: absolute;
+
+}
+.topbar{
+    width: 97%;
+    margin-left: 1.5%;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    padding: 10px 10px;
+    margin-top: 5px;
+}
+.logo{
+    width: 10%;
+    background-color: aliceblue;
+    height: 80px;
+}
+.navlink{
+    width: 50%;
+    height: 40px;
+    background-color: blue;
+    margin-left: 40%;
+    margin-top: -60px;
+}
+.masthead{
+    width: 97%;
+    height: 250px;
+    background-color: blueviolet;
+    margin-top: 120px;
+    margin-left: 1.5%;
+}
+.box{
+    background-color: rgb(33, 195, 4);
+    width: 30%;
+    height: 200px;
+    margin: 50px;
+    margin-top: 25px;
+    position: absolute;
+}
+.h1{
+    background-color: rgb(221, 72, 7);
+    width: 50%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 110px;
+}
+p{
+    background-color: rgb(230, 50, 6);
+    width: 60%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+button{
+    background-color: rgb(230, 50, 6);
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 130px;
+    border: none;
+}
+main{
+    width: 100%;
+    height: 3250px;
+    background-color: yellow;
+}
+.about{
+    width: 97%;
+    height: 480px;
+    background-color: darkslategrey;
+    margin: 1.5%;
+    margin-top: 10px;
+    position: absolute;
+}
+.aboutimg{
+    width: 40%;
+    height: 440px;
+    background-color: blueviolet;
+    margin: 20px;
+    
+}
+.img{
+    width: 30%;
+    height: 400px;
+    background-color: chartreuse;
+    margin: 65px;
+    margin-top: 20px;
+    position: absolute;
+}
+.box2{
+    width: 40%;
+    height: 440px;
+    background-color: rgb(255, 0, 179);
+    margin-left: 50%;
+    margin-top: -460px;
+}
+h1{
+    background-color: aqua;
+    width: 30%;
+    height: 40px;
+    margin-left: 70px;
+    margin-top: 120px;
+    position: absolute;
+}
+p2{
+    background-color: aqua;
+    width: 35%;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 200px;
+    position: absolute;
+}
+button2{
+    background-color: aqua;
+    width: 25%;
+    height: 50px;
+    margin-left: 110px;
+    margin-top: 300px;
+    position: absolute;
+}
+.faculity{
+    background-color: brown;
+    width: 97%;
+    height: 600px;
+    margin-top: 500px;
+    position: absolute;
+    margin-left: 1.5%;
+}
+.ourfaculity{
+    width: 90%;
+    height: 150px;
+    background-color: rgb(0, 115, 255);
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.img2{
+    width: 50%;
+    height: 70px;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    margin-left: 300px;
+    position: absolute;
+}
+h3{
+    width: 80%;
+    height: 40px;
+    background-color: antiquewhite;
+    margin-top: 100px;
+    margin-left: 130px;
+    position: absolute;
+}
+.coffeev{
+    width: 90%;
+    height: 390px;
+    background-color: red;
+    margin-top: 190px;
+    position: absolute;
+    margin-left: 70px;
+}
+.coffee{
+    width: 22%;
+    height: 370px;
+    background-color: rgb(9, 234, 155);
+    margin-top: 10px;
+    margin-left: 30px;
+    position: absolute;
+}
+.coffee image1{
+    width: 80%;
+    height: 230px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 30px;
+}
+.coffee h5{
+    width: 70%;
+    height: 40px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 40px;
+}
+.coffee p3{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 320px;
+    position: absolute;
+    margin-left: 15px;
+}
+.beans{
+    width: 22%;
+    height: 370px;
+    background-color: rgb(9, 234, 155);
+    margin-top: 10px;
+    margin-left: 360px;
+    position: absolute;
+
+}
+.beans image1{
+    width: 80%;
+    height: 230px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 30px;
+}
+.beans h5{
+    width: 70%;
+    height: 40px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 40px;
+}
+.beans p3{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 320px;
+    position: absolute;
+    margin-left: 15px;
+}
+.sweets{
+    width: 22%;
+    height: 370px;
+    background-color: rgb(9, 234, 155);
+    margin-top: 10px;
+    margin-left: 680px;
+    position: absolute;
+
+}
+.sweets image1{
+    width: 80%;
+    height: 230px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 30px;
+}
+.sweets h5{
+    width: 70%;
+    height: 40px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 40px;
+}
+.sweets p3{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 320px;
+    position: absolute;
+    margin-left: 15px;
+}
+.rdcoffee{
+    width: 22%;
+    height: 370px;
+    background-color: rgb(9, 234, 155);
+    margin-top: 10px;
+    margin-left: 1000px;
+    position: absolute;
+
+}
+.rdcoffee image1{
+    width: 80%;
+    height: 230px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 30px;
+}
+.rdcoffee h5{
+    width: 70%;
+    height: 40px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 40px;
+}
+.rdcoffee p3{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(246, 16, 165);
+    margin-top: 320px;
+    position: absolute;
+    margin-left: 15px;
+}
+.menu{
+    width: 97%;
+    height: 600px;
+    margin-left: 1.5%;
+    background-color: orangered;
+    margin-top: 1110px;
+    position: absolute;
+}
+.pmenu{
+    width: 90%;
+    height: 150px;
+    background-color: gray;
+    margin-left: 70px;
+    margin-top: 10px;
+    position: absolute;
+}
+image5{
+    width: 50%;
+    height: 40px;
+    background-color: rgb(36, 15, 231);
+    margin-left: 280px;
+    margin-top: 15px;
+    position: absolute;
+}
+h13{
+    width: 80%;
+    height: 30px;
+    background-color: blue;
+    margin-left: 120px;
+    margin-top: 80px;
+    position: absolute;
+}
+.menuv{
+    width: 90%;
+    height: 420px;
+    background-color: coral;
+    margin-top: 170px;
+    margin-left: 70px;
+}
+.c1{
+    width: 25%;
+    height: 200px;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 50px;
+    background-color: aliceblue;
+
+}
+.c2{
+    width: 25%;
+    height: 200px;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 480px;
+    background-color: aliceblue;
+}
+.c3{
+    width: 25%;
+    height: 200px;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 910px;
+    background-color: aliceblue;
+}
+.c4{
+    width: 25%;
+    height: 190px;
+    margin-top: 220px;
+    position: absolute;
+    margin-left: 50px;
+    background-color: aliceblue;
+}
+.c5{
+    width: 25%;
+    height: 190px;
+    margin-top: 220px;
+    position: absolute;
+    margin-left: 480px;
+    background-color: aliceblue;
+}
+.c6{
+    width: 25%;
+    height: 190px;
+    margin-top: 220px;
+    position: absolute;
+    margin-left: 910px;
+    background-color: aliceblue;
+}
+imagec1{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+h4c1{
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 40px;
+}
+imagec2{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+h4c2{
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 40px;
+}
+imagec3{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+h4c3{
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 40px;
+}
+imagec4{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+h4c4{
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 40px;
+}
+imagec5{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+h4c5{
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 40px;
+}imagec6{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+h4c6{
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 40px;
+}
+.gallery{
+    width: 97%;
+    height: 800px;
+    margin-top: 1720px;
+    background-color: lime;
+    position: absolute;
+    margin-left: 1.5%;
+}
+.og{
+    width: 95%;
+    height: 150px;
+    background-color: rgb(238, 30, 30);
+    margin-top: 10px;
+    margin-left: 30px;
+}
+imageo{
+    width: 30%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 500px;
+    background-color: cornflowerblue;
+    position: absolute;
+}
+h3o{
+    width: 50%;
+    height: 20px;
+    margin-top: 90px;
+    margin-left: 350px;
+    background-color: cornflowerblue;
+    position: absolute;
+}
+.mg{
+    width: 95%;
+    height: 600px;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 2.5%;
+    position: absolute;
+}
+.g1{
+    width: 28%;
+    height: 260px;
+    background-color: rgb(239, 6, 219);
+    margin-top: 25px;
+    margin-left: 50px;
+    position: absolute;
+}
+.m1{
+    width: 90%;
+    height: 220px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: rgb(35, 135, 222);
+}
+.g2{
+    width: 28%;
+    height: 260px;
+    background-color: rgb(239, 6, 219);
+    margin-top: 25px;
+    margin-left: 500px;
+    position: absolute;
+}
+.m2{
+    width: 90%;
+    height: 220px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: rgb(35, 135, 222);
+}
+.g3{
+    width: 28%;
+    height: 260px;
+    background-color: rgb(239, 6, 219);
+    margin-top: 25px;
+    margin-left: 950px;
+    position: absolute;
+}
+.m3{
+    width: 90%;
+    height: 220px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: rgb(35, 135, 222);
+}
+.g4{
+    width: 28%;
+    height: 260px;
+    background-color: rgb(239, 6, 219);
+    margin-top: 300px;
+    margin-left: 50px;
+    position: absolute;
+}
+.m4{
+    width: 90%;
+    height: 220px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: rgb(35, 135, 222);
+}
+.g5{
+    width: 28%;
+    height: 260px;
+    background-color: rgb(239, 6, 219);
+    margin-top: 300px;
+    margin-left: 500px;
+    position: absolute;
+}
+.m5{
+    width: 90%;
+    height: 220px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: rgb(35, 135, 222);
+}
+.g6{
+    width: 28%;
+    height: 260px;
+    background-color: rgb(239, 6, 219);
+    margin-top: 300px;
+    margin-left: 950px;
+    position: absolute;
+}
+.m6{
+    width: 90%;
+    height: 220px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: rgb(35, 135, 222);
+}
+.team{
+    width: 97%;
+    height: 700px;
+    margin-left: 1.5%;
+    margin-top: 2530px;
+    position: absolute;
+    background-color: chocolate;
+}
+.oteam{
+    width: 90%;
+    height: 150px;
+    background-color: violet;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+imgt{
+    width: 50%;
+    height: 50px;
+    background-color: blanchedalmond;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 280px;
+}
+h3t{
+    width: 70%;
+    height: 30px;
+    background-color: antiquewhite;
+    margin-top: 80px;
+    margin-left: 150px;
+    position: absolute;
+}
+.members{
+    width: 90%;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 70px;
+    background-color: aqua;
+}
+.j1{
+    width: 25%;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 40px;
+    height: 240px;
+    background-color: aliceblue;
+}
+imagej{
+    width: 50%;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 90px;
+    background-color: rgb(240, 220, 2);
+    position: absolute;
+}
+h4j{
+    width: 70%;
+    height: 50px;
+    margin-top: 160px;
+    margin-left: 50px;
+    background-color: rgb(243, 235, 6);
+    position: absolute;
+}
+.j2{
+    width: 25%;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 480px;
+    height: 240px;
+    background-color: aliceblue;
+}
+imagej2{
+    width: 50%;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 90px;
+    background-color: rgb(240, 220, 2);
+    position: absolute;
+}
+h4j2{
+    width: 70%;
+    height: 50px;
+    margin-top: 160px;
+    margin-left: 50px;
+    background-color: rgb(243, 235, 6);
+    position: absolute;
+}
+.j3{
+    width: 25%;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 920px;
+    height: 240px;
+    background-color: aliceblue;
+}
+imagej3{
+    width: 50%;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 90px;
+    background-color: rgb(240, 220, 2);
+    position: absolute;
+}
+h4j3{
+    width: 70%;
+    height: 50px;
+    margin-top: 160px;
+    margin-left: 50px;
+    background-color: rgb(243, 235, 6);
+    position: absolute;
+}
+.j4{
+    width: 25%;
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 40px;
+    height: 230px;
+    background-color: aliceblue;
+}
+imagej4{
+    width: 50%;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 90px;
+    background-color: rgb(240, 220, 2);
+    position: absolute;
+}
+h4j4{
+    width: 70%;
+    height: 50px;
+    margin-top: 160px;
+    margin-left: 50px;
+    background-color: rgb(243, 235, 6);
+    position: absolute;
+}
+.j5{
+    width: 25%;
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 480px;
+    height: 230px;
+    background-color: aliceblue;
+}
+imagej5{
+    width: 50%;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 90px;
+    background-color: rgb(240, 220, 2);
+    position: absolute;
+}
+h4j5{
+    width: 70%;
+    height: 50px;
+    margin-top: 160px;
+    margin-left: 50px;
+    background-color: rgb(243, 235, 6);
+    position: absolute;
+}
+.j6{
+    width: 25%;
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 920px;
+    height: 230px;
+    background-color: aliceblue;
+}
+imagej6{
+    width: 50%;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 90px;
+    background-color: rgb(240, 220, 2);
+    position: absolute;
+}
+h4j6{
+    width: 70%;
+    height: 50px;
+    margin-top: 160px;
+    margin-left: 50px;
+    background-color: rgb(243, 235, 6);
+    position: absolute;
+}
+footer{
+    width: 100%;
+    height: 1400px;
+    background-color: gray;
+    position: absolute;
+
+}
+.contact{
+    width: 97%;
+    height: 600px;
+    margin-top: 20px;
+    background-color: yellowgreen;
+    position: absolute;
+    margin-left: 1.5%;
+}
+.cu{
+    width: 97%;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 1.5%;
+    background-color: rgb(251, 2, 152);
+}
+imageu{
+    width: 40%;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 420px;
+    background-color: aliceblue;
+    position: absolute;
+}
+h3u{
+    width: 60%;
+    height: 30px;
+    margin-top: 90px;
+    margin-left: 280px;
+    background-color: aliceblue;
+    position: absolute;
+}
+.ci{
+    width: 40%;
+    height: 400px;
+    background-color: indigo;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+imagei{
+    width: 90%;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 5%;
+    background-color: cadetblue;
+    position: absolute;
+}
+.form{
+    width: 40%;
+    height: 400px;
+    background-color: indigo;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 20px;
+}
+imagef{
+    width: 90%;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 5%;
+    background-color: cadetblue;
+    position: absolute;
+}
+.contacticons{
+    width: 97%;
+    height: 730px;
+    background-color: crimson;
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 1.5%;
+}
+.cinfo{
+    width: 97%;
+    height: 420px;
+    background-color: burlywood;
+    margin-top: 20px;
+    margin-left: 1.5%;
+}
+imagem{
+    width: 60%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 65px;
+    background-color: antiquewhite;
+    position: absolute;
+
+}
+h4m{
+    width: 80%;
+    height: 30px;
+    margin-top: 250px;
+    margin-left: 35px;
+    background-color: antiquewhite;
+    position: absolute;
+
+}
+h5m{
+    width: 80%;
+    height: 30px;
+    margin-top: 300px;
+    margin-left: 35px;
+    background-color: antiquewhite;
+    position: absolute; 
+}
+h6m{
+    width: 80%;
+    height: 30px;
+    margin-top: 350px;
+    margin-left: 35px;
+    background-color: antiquewhite;
+    position: absolute;
+}
+.mail{
+    width: 23%;
+    height: 400px;
+    background-color: darkgoldenrod;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.hour{
+    width: 23%;
+    height: 400px;
+    background-color: darkgoldenrod;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 370px;
+}
+imageh{
+    width: 70%;
+    height: 200px;
+    margin-left: 50px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 30px;
+}
+h4h{
+    width: 90%;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 250px;
+    background-color: aliceblue;
+    position: absolute;
+}
+ph{
+    width: 90%;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 330px;
+    background-color: aliceblue;
+    position: absolute;
+}
+.location{
+    width: 23%;
+    height: 400px;
+    background-color: darkgoldenrod;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 720px;
+}
+imageh{
+    width: 70%;
+    height: 200px;
+    margin-left: 50px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 30px;
+}
+h4h{
+    width: 90%;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 250px;
+    background-color: aliceblue;
+    position: absolute;
+}
+ph{
+    width: 90%;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 330px;
+    background-color: aliceblue;
+    position: absolute;
+}
+.number{
+    width: 23%;
+    height: 400px;
+    background-color: darkgoldenrod;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1075px;
+}
+imager{
+    width: 60%;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 65px;
+    background-color: antiquewhite;
+    position: absolute;
+
+}
+h4r{
+    width: 80%;
+    height: 30px;
+    margin-top: 250px;
+    margin-left: 35px;
+    background-color: antiquewhite;
+    position: absolute;
+
+}
+h5r{
+    width: 80%;
+    height: 30px;
+    margin-top: 300px;
+    margin-left: 35px;
+    background-color: antiquewhite;
+    position: absolute; 
+}
+h6r{
+    width: 80%;
+    height: 30px;
+    margin-top: 350px;
+    margin-left: 35px;
+    background-color: antiquewhite;
+    position: absolute;
+}
+.copy{
+    width: 97%;
+    height: 250px;
+    background-color: aqua;
+    position: absolute;
+    margin-left: 1.5%;
+    margin-top: 20px;
+}
+h4c{
+    width: 90%;
+    height: 200px;
+    background-color: rgb(73, 5, 141);
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 5%;
+    border-radius: 10px;
+}
